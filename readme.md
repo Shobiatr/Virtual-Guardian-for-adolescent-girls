@@ -22,6 +22,7 @@
 
 
 ## Execution
-(i) Download Visual Studio Code and run login.html file.
-(ii) Run the application in your browser using "localhost/OOAD".
+(i) Download Visual Studio Code and run login.html file.<br>
+(ii) Save all the files under the name OOAD.
+(iii) Run the application in your browser using "localhost/OOAD".
 
